@@ -80,11 +80,15 @@ cd Plant-It-Smart-Watering-System
 **1. In Arduino IDE:**
    - Go to Tools → Board → Boards Manager
    - Install: ESP8266 Boards (by ESP8266 Community)
+     
 **2. Install required libraries (via Arduino Library Manager):**
    - ESP8266WebServer
    - ArduinoJson
    - LiquidCrystal I2C
+
 **3. Select your board:**
    - Tools → Board → NodeMCU 1.0 (ESP-12E Module)
+     
 **4. Upload code to ESP8266 (NodeMCU)**
+
 **5. Power the board — and watch it water!** 🌱
