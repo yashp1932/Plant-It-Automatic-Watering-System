@@ -73,8 +73,8 @@ Plant-It automatically identifies your plant, retrieves watering needs, and wate
 ## 🚀 Quickstart
 
 ```bash
-git clone https://github.com/yashp1932/Plant-It-Automatic-Watering-System.git
-cd Plant-It-Automatic-Watering-System
+git clone https://github.com/yashp1932/Plant-It-Smart-Watering-System.git
+cd Plant-It-Smart-Watering-System
 ```
 
 **1. In Arduino IDE:**
@@ -87,4 +87,4 @@ cd Plant-It-Automatic-Watering-System
 **3. Select your board:**
    - Tools → Board → NodeMCU 1.0 (ESP-12E Module)
 **4. Upload code to ESP8266 (NodeMCU)**
-5. **Power the board — and watch it water!** 🌱
+**5. Power the board — and watch it water!** 🌱
