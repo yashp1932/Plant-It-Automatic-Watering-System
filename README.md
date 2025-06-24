@@ -6,7 +6,7 @@
 ## 🔍 Explore
 
 🌐 Web Application [COMING SOON]   
-📄 Project Overview (PDF) [COMING SOON]   
+📄 [Project Overview (PDF)](project_overview.pdf)
 🎥 Demo Video [COMING SOON]
 
 ---
