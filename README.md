@@ -29,11 +29,11 @@ Plant-It automatically identifies your plant, retrieves watering needs, and wate
    - Retrieve ideal min/max/optimal soil moisture %  
 
 3. **Microcontroller Logic**  
-   - ESP8266 connects via WiFi to a web app  
+   - ESP8266 connects via **WiFi** to a web app  
    - Receives min/max/optimal VWC thresholds (once per session)  
    - Reads soil moisture from sensor  
    - Controls water pump via relay, watering only as needed  
-   - Displays live status on I2C LCD
+   - Displays live status on **I2C LCD**
    - Potentiometer enables control over how much water flows out the pipe at a given time
 
 4. **Web Dashboard**  
