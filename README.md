@@ -112,7 +112,7 @@ Have ideas to improve Plant-It? I’d love to hear your feedback, questions, or 
 🌐 [GitHub](https://github.com/yashp1932)  
 💼 [LinkedIn](https://www.linkedin.com/in/yash-panchal-9185aa291/)
 
-📧 Kalpkansara123@gmail.com (project partner)
-🌐 [GitHub](https://github.com/KalpKan/PlantWater)  
-💼 [LinkedIn](https://www.linkedin.com/in/kalp-kansara123/)
+📧 Kalpkansara123@gmail.com (project partner)      
+🌐 [GitHub](https://github.com/KalpKan/PlantWater)        
+💼 [LinkedIn](https://www.linkedin.com/in/kalp-kansara123/)      
 
