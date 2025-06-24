@@ -21,7 +21,7 @@ There are many plants in my house. Every corner you turn, in every room, there i
 Plant-It automatically identifies your plant, retrieves watering needs, and waters based on live soil readings:
 
 1. **Plant Identification**  
-   - Snap a photo of the plant  
+   - Snap a photo of the plant and upload to the web app
    - Use **Pl@ntNet API** to detect species  
 
 2. **Optimal Moisture Retrieval**  
@@ -33,29 +33,28 @@ Plant-It automatically identifies your plant, retrieves watering needs, and wate
    - Receives min/max/optimal VWC thresholds (once per session)  
    - Reads soil moisture from sensor  
    - Controls water pump via relay, watering only as needed  
-   - Displays live status on I2C LCD  
+   - Displays live status on I2C LCD
+   - Potentiometer enables control over how much water flows out the pipe at a given time
 
 4. **Web Dashboard**  
    - Built with **React**  
    - Uses **Google Accounts** for individual sign-in  
    - Per-user dashboard to view all plants  
    - See each plant’s watering status, species, family, and care tips  
-   - ESP8266 can be paired to any plant at any time — easily swap devices between plants
+   - ESP8266 can be paired to any plant at any time, allowing easy swap devices between plants
 
 ---
 
 ## 🔧 Tech Stack
 
-- **ESP8266** microcontroller (NodeMCU)  
-- **Arduino IDE**  
-- LiquidCrystal_I2C (LCD)  
-- Soil moisture sensor (capacitive)  
-- 5V submersible water pump + relay module  
-- Web server with REST endpoints  
-- **React.js** web app  
-- **Google OAuth** for login  
-- Pl@ntNet API  
-- OpenAI API
+- **ESP8266 (NodeMCU)** microcontroller  
+- **Arduino IDE** (firmware development)  
+- **React.js** (web app for plant dashboard)  
+- **Google OAuth** (user authentication)  
+- **Pl@ntNet API** (plant species identification)  
+- **OpenAI API** (optimal moisture range generation)  
+- **HTTP / REST** (device ↔ web app communication)  
+- **Wi-Fi networking** (ESP8266 local server)  
 
 ---
 
@@ -76,6 +75,16 @@ Plant-It automatically identifies your plant, retrieves watering needs, and wate
 ```bash
 git clone https://github.com/yashp1932/Plant-It-Automatic-Watering-System.git
 cd Plant-It-Automatic-Watering-System
-# Open plant_watering_system.ino in Arduino IDE
-# Upload to ESP8266 (NodeMCU)
-# Power the board and watch it water! 🌱
+```
+
+**1. In Arduino IDE:**
+   - Go to Tools → Board → Boards Manager
+   - Install: ESP8266 Boards (by ESP8266 Community)
+**2. Install required libraries (via Arduino Library Manager):**
+   - ESP8266WebServer
+   - ArduinoJson
+   - LiquidCrystal I2C
+**3. Select your board:**
+   - Tools → Board → NodeMCU 1.0 (ESP-12E Module)
+**4. Upload code to ESP8266 (NodeMCU)**
+5. **Power the board — and watch it water!** 🌱
