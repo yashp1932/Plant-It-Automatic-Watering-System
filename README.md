@@ -69,6 +69,14 @@ Plant-It automatically identifies your plant, retrieves watering needs, and wate
 
 ---
 
+## 📐 Wiring Diagram
+
+Here’s the full wiring for Plant-It (ESP8266, relay, moisture sensor, LCD, pump):
+
+![Plant-It Wiring Diagram](plant_system_wiring_diagram.png)
+
+
+---
 ## 🚀 Quickstart
 
 ```bash
