@@ -99,9 +99,10 @@ cd Plant-It-Smart-Watering-System
 **3. Select your board:**
    - Tools → Board → NodeMCU 1.0 (ESP-12E Module)
      
-**4. Upload code to ESP8266 (NodeMCU)**
+**4. Upload code to ESP8266 (NodeMCU)**      
 
 **5. Power the board — and watch it water!** 🌱
+
  ---
  
 ## 🤝 Connect
