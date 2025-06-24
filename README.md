@@ -102,3 +102,17 @@ cd Plant-It-Smart-Watering-System
 **4. Upload code to ESP8266 (NodeMCU)**
 
 **5. Power the board — and watch it water!** 🌱
+ ---
+ 
+## 🤝 Connect
+
+Have ideas to improve Plant-It? I’d love to hear your feedback, questions, or collaboration ideas!
+
+- 📧 yash.panchal1932@gmail.com  
+- 🌐 [GitHub](https://github.com/yashp1932)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yash-panchal-9185aa291/)
+
+- 📧 Kalpkansara123@gmail.com (project partner)
+- 🌐 [GitHub](https://github.com/KalpKan/PlantWater)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kalp-kansara123/)
+
