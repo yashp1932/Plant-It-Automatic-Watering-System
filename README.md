@@ -5,7 +5,9 @@
 ---
 ## 🔍 Explore
 
-🌐 Web Application [COMING SOON] || 📄 Project Documentation (PDF) [COMING SOON] ||  🎥 Demo Video [COMING SOON]
+🌐 Web Application [COMING SOON] 
+📄 Project Documentation (PDF) [COMING SOON] 
+🎥 Demo Video [COMING SOON]
 
 ---
 
