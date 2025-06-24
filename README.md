@@ -1,4 +1,4 @@
-# Plant-It — Smart Watering System 🌿🚰
+# Plant-It — Smart Watering System 🌿
 
 **Plant-It** is a fully automated plant watering system built on an ESP8266 microcontroller. It identifies plants using Pl@ntNet and OpenAI, retrieves their optimal moisture ranges, and waters them accordingly — all while connecting live to a React web dashboard for easy monitoring.
 
