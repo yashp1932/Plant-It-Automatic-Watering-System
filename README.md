@@ -4,8 +4,7 @@
 
 ---
 
-📄 Project Documentation (PDF)  
-🎥 Demo Video
+
 
 ---
 
