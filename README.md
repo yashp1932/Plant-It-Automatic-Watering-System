@@ -7,7 +7,7 @@
 
 🌐 Web Application [COMING SOON]   
 📄 [Project Overview (PDF)](project_overview.pdf)      
-🎥 Demo Video [COMING SOON]
+🎥 [Demo Video](https://www.youtube.com/watch?v=a0oCiGJgBCo)
 
 ---
 
