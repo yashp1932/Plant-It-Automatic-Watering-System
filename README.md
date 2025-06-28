@@ -5,7 +5,7 @@
 ---
 ## 🔍 Explore
 
-🌐 [Web Application](plantit.site)      
+🌐 Web Application: https://plantit.site/login
 📄 [Project Overview (PDF)](project_overview.pdf)      
 🎥 [Demo Video](https://www.youtube.com/watch?v=a0oCiGJgBCo)
 
