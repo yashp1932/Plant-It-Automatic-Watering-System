@@ -8,8 +8,6 @@ Plant-It is an embedded IoT project built around the ESP8266 microcontroller tha
 
 **Key Features:** Automated AI-driven watering, real-time soil monitoring, image-based plant identification, multi-plant dashboard with user authentication.
 
-  
-
 ---
 ## 🔍 Explore
 
