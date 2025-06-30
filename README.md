@@ -19,8 +19,7 @@ Plant-It is an **embedded IoT project** built around the ESP8266 microcontroller
 
 ## 🌱 Background
 
-There are many plants in my house. Every corner you turn, in every room, there is a plant. Thanks to my dad, an avid gardener, my house has become a thriving extension of my backyard garden. However, many plants in the house go without water, far longer than they should. Due to the sheer number of them, it is easy to lose track of the ones that need water. This gave me an idea:  
-**What if each plant had its own water supply, which poured just the right amount of water it required?**
+My house is filled with plants thanks to my dad, an avid gardener. With so many plants, it was easy to forget which ones needed watering. Plant-It was created to automate watering, delivering the right amount to each plant precisely when needed.
 
 ---
 
