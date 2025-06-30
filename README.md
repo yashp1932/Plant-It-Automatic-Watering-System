@@ -7,7 +7,8 @@
 This project showcases skills in embedded firmware development, sensor interfacing, wireless communication, API integration, and full-stack web interaction—perfectly blending hardware and software for smart automation.
 
 **Tech Stack:** ESP8266, Arduino IDE, Capacitive Soil Moisture Sensor, Relay Module, React.js, Google OAuth, Pl@ntNet API, OpenAI API, RESTful communication, Wi-Fi Networking  
-**Core Features:** Automated watering based on sensor data and AI-driven moisture thresholds, live device status display, plant identification from images, and multi-plant dashboard management.
+**Core Features:** Automated watering based on sensor data and AI-driven moisture thresholds, live device status display, plant identification from images, and multi-plant dashboard management.   
+
 ---
 ## 🔍 Explore
 
