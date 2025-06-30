@@ -2,11 +2,11 @@
 
 ## ⚙️ Summary
 
-Plant-It is an **embedded IoT project** built around the ESP8266 microcontroller that **automates indoor plant watering**. It combines AI-powered plant species identification (using Pl@ntNet and OpenAI APIs) with real-time soil moisture sensing to deliver precise watering control. The system integrates with a React-based web dashboard for live monitoring, device management, and personalized care instructions.
+FormFit is a real-time AI-powered pushup form tracker that uses computer vision and a custom-trained TensorFlow model to detect improper reps and provide instant feedback. Originally prototyped on a Raspberry Pi 4 with MediaPipe for body landmark detection, it evolved into a high-accuracy system (94.7%) running on desktop for faster inference and scalability.
 
-**Tech Stack:** ESP8266 · Arduino IDE · Capacitive Soil Moisture Sensor · Relay Module · React.js · Google OAuth · Pl@ntNet API · OpenAI API · REST API  
+**Tech Stack:** Python · OpenCV · MediaPipe · TensorFlow · NumPy · Raspberry Pi 4 · Desktop  
 
-**Key Features:** Automated AI-driven watering · Real-time soil monitoring · Image-based plant identification · Multi-plant dashboard with user authentication.
+**Key Features:** Real-time pushup form analysis · AI-driven accuracy · Custom CNN model · Scalable architecture for multiple users and exercises · Instant feedback for safer training.
 
 ---
 ## 🔍 Explore
