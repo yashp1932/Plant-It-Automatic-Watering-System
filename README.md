@@ -2,12 +2,13 @@
 
 ## ⚙️ Summary
 
-**Plant-It** is an embedded IoT project featuring an ESP8266 microcontroller that automates indoor plant watering. It integrates plant species identification using Pl@ntNet and OpenAI APIs with real-time soil moisture sensing to deliver precise water control. The system connects to a React-based web dashboard for live monitoring and management. 
-
-This project showcases skills in embedded firmware development, sensor interfacing, wireless communication, API integration, and full-stack web interaction—perfectly blending hardware and software for smart automation.
+Plant-It is an embedded IoT project built around the ESP8266 microcontroller that automates indoor plant watering. It combines AI-powered plant species identification (using Pl@ntNet and OpenAI APIs) with real-time soil moisture sensing to deliver precise watering control. The system integrates with a React-based web dashboard for live monitoring, device management, and personalized care instructions.
 
 **Tech Stack:** ESP8266, Arduino IDE, Capacitive Soil Moisture Sensor, Relay Module, React.js, Google OAuth, Pl@ntNet API, OpenAI API, RESTful communication, Wi-Fi Networking  
-**Core Features:** Automated watering based on sensor data and AI-driven moisture thresholds, live device status display, plant identification from images, and multi-plant dashboard management.   
+**Key Features:** Automated AI-driven watering, real-time soil monitoring, image-based plant identification, multi-plant dashboard with user authentication.
+
+---
+  
 
 ---
 ## 🔍 Explore
